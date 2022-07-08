@@ -1,1 +1,2 @@
-./firstDapp/node_modules
+firstDapp/node_modules
+firstDapp/.env
